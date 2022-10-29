@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConsultaDeCep</string>
+    <string name="cep">CEP: %1$s</string>
+    <string name="logradouro">Logadouro: %1$s</string>
+    <string name="bairro">Bairro: %1$s</string>
+    <string name="localidade">"Localidade: %1$s</string>
+    <string name="uf">UF: %1$s</string>
+    <string name="ddd">DDD: %1$s</string>
+    <string name="tv_what_to_do">Digite o CEP e clique em Consultar</string>
+    <string name="et_example">Exemplo: 60030160</string>
+    <string name="btn_consult_name">Consultar</string>
+    <string name="erro_cep_with_wrong_number_of_digits">Um CEP só possui 8 dígitos. Por favor corrija e tente novamente.</string>
+    <string name="consult_error">Erro ao consultar o CEP.</string>
+</resources>
